@@ -1,5 +1,6 @@
 Me love fancy Code.<br>
-IntelliJ best IDE.
+IntelliJ best IDE.<br>
+Context-oriented programming is amazing.
 
 Favorite Technologies etc.
 - Kotlin
