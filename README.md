@@ -1,7 +1,7 @@
 Me love fancy Code.<br>
 JetBrains makes best IDEs.<br>
-Functional and context-oriented programming is amazing.
-I strive towards writing safe high level code. The compiler is my best buddy.
+Functional and context-oriented programming is amazing.<br>
+I strive towards writing safe high level code. The compiler is my best buddy.<br>
 
 Favorite Technologies etc.
 - Kotlin
@@ -10,9 +10,4 @@ Favorite Technologies etc.
 - Arrow-kt
 - Kotlin Coroutines
 
-
-
-
-
-spit on SQL
-spit on Java
+spit on SQL, spit on Java
